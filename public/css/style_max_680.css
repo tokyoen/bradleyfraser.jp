@@ -1,0 +1,155 @@
+@charset "utf-8";
+
+@media screen and (max-width: 680px) {
+
+	.header {
+	float: left;
+	width: 100%;
+	height: auto;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	}
+	.header h1 {
+	height: auto;
+	margin: 2px auto 0 !important;
+	padding: 24px 0;
+	text-align: center;
+	width: 54%;
+	}
+
+	.header h1 img {
+	width: 60%;
+	}
+	#menu {
+	width: 60%;
+	}
+	.navs ul li {
+	width: 33%;
+	}
+	.navs ul li a {
+	line-height: 32px;
+	color: #b9babb;
+	letter-spacing: 1px;
+	font-size: 7px;
+	}
+
+	.container .galleryMain {
+	top: -50px;
+	}
+
+	.galleryTxt {
+	margin: 0 auto;
+	width: 70%;
+	height: auto;
+	overflow: hidden;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	}
+	.galleryTxt h1 {
+	float: left;
+	width: 65%;
+	height: auto; 
+	/*    font-family:"ITCgaramond", Times, serif;*/
+    font-family: 'EB Garamond', serif;
+	font-size: 0.8em;
+	color: #5c5e61;
+	font-weight: normal;
+	padding: 20px 0 5px 0;
+	margin: 0 0 0 0;
+	line-height: 15px;
+	}
+	.galleryTxt h1 span {
+	float: left;
+	width: 100%;
+	height: auto;
+	font-family: "Courier New",Courier,monospacef;
+	font-size: 6px;
+	color: #5c5e61;
+	text-transform: uppercase;
+	margin-top: -1px;
+	letter-spacing: 0.4px;
+	}
+	.galleryTxt p {
+	font-family: Verdana, Geneva, sans-serif;
+    /*font-family: "Courier New",Courier,monospacef;*/
+    font-size: 6px;
+	font-weight: normal;
+	height: auto;
+	line-height: 8px;
+	margin: 0;
+	padding: 0 0 10px;
+	text-align: left;
+	width: 65%;
+	}
+	.galleryTxt p.productContent {
+	width: 65%;
+	text-align: left;
+	padding: 0 0 10px 0;
+	}
+	.galleryTxt p.bio {
+	line-height: 10px;
+	margin: 1% 0 0 2px;
+	}
+	.galleryTxt p.contact {
+	line-height: 10px;
+	margin: 1% 0 0 0;
+	}
+
+	.processThumbContainer li {
+	margin: 0 12px 10px 0px;
+	width: 27.5%;
+	}
+	.seeProcessLink {
+	font-size: 6px;
+	text-decoration: none;
+	}
+	 #colorbox {
+	width: 90% !important;
+	margin-top: 20%!important;
+	}
+	    #cboxWrapper {
+	width: 100% !important;
+	height: auto !important;
+	}
+	    #cboxContent {
+	width: 100% !important;
+	height: auto !important;
+	}
+	    .cboxPhoto {
+	width: 100% !important;
+	height: auto !important;
+	}
+	    #cboxLoadedContent {
+	width: 100% !important;
+	height: auto !important;
+	}
+
+	.masonry,
+	.masonry .masonry-brick {
+	-webkit-transition-duration: 0.1s;
+	-moz-transition-duration: 0.1s;
+	-ms-transition-duration: 0.1s;
+	-o-transition-duration: 0.1s;
+	transition-duration: 0.1s;
+	-webkit-transition-delay: 0s;
+	-moz-transition-delay: 0s;
+	-o-transition-delay: 0s;
+	transition-delay: 0s;
+	}
+
+	.masonry {
+	-webkit-transition-property: width, height;
+	-moz-transition-property: width, height;
+	-ms-transition-property: width, height;
+	-o-transition-property: width, height;
+	transition-property: width, height;
+	}
+
+	.masonry .masonry-brick {
+	-webkit-transition-property: left, right, top;
+	-moz-transition-property: left, right, top;
+	-ms-transition-property: left, right, top;
+	-o-transition-property: left, right, top;
+	transition-property: left, right, top;
+	}
+
+}
