@@ -1,0 +1,27 @@
+---
+layout: default
+title: Work
+---
+
+<article class="galleryMain galleryActive">
+	<div class="galleryInside" id="showblck">
+		{% assign sorted_posts = (site.posts | sort: 'name') %}
+		{% for post in sorted_posts %}
+		<div class="gallBlk masonry-brick">
+			<a href="{{ post.url }}">
+				<span><img src="/img/upload_works/works/{{ post.thumbnail }}" alt="{{ post.thumbnail }}"></span>
+				<h1>{{ post.title }}</h1>
+				<p>
+					DATA:<br><br>
+					{{ post.date }}
+					<br>
+					{{ post.photos | size }} PHOTOS
+					<br><br><br>
+					MORE +
+				</p>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="clear"></div>
+</article>

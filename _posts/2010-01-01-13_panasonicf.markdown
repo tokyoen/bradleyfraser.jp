@@ -1,0 +1,20 @@
+---
+num:        13
+layout:     work
+title:      "Single Pin - Flip"
+date:       2010-01-01
+thumbnail:  thumb_panasonicf-thumbnail-205x134-v1.jpg
+background: X-Test-SketchImage-600x375.jpg
+photos:
+  - pf-photo-580x380-A-v1.jpg
+  - pf-photo-580x380-B-v1.jpg
+  - pf-photo-580x380-C-v1.jpg
+  - pf-photo-580x380-D-v1.jpg
+  - pf-photo-580x380-E-v1.jpg
+  - pf-photo-580x380-F-v1.jpg
+process_photos:
+
+---
+
+A Panasonic mobile phone designed for ease of disassembly.
+

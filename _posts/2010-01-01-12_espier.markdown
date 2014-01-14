@@ -1,0 +1,25 @@
+---
+num:        12
+layout:     work
+title:      "Espier"
+date:       2010-01-01
+thumbnail:  thumb_espier-thumbnail-205x134-v1.jpg
+background: X-Test-SketchImage-600x375.jpg
+photos:
+  - espier-photo-580x380-A-v1.jpg
+  - espier-photo-580x380-B-v1.jpg
+  - espier-photo-580x380-C-v1.jpg
+  - espier-photo-580x380-D-v1.jpg
+  - espier-photo-580x380-E-v1.jpg
+  - espier-photo-580x380-F-v1.jpg
+  - espier-photo-580x380-G-v1.jpg
+  - espier-photo-580x380-H-v1.jpg
+  - espier-photo-580x380-I-v1.jpg
+  - espier-photo-580x380-J-v1.jpg
+  - espier-photo-580x380-Kv-v1.jpg
+process_photos:
+
+---
+
+Nec mobile phone design.
+

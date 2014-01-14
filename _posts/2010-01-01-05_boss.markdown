@@ -1,0 +1,29 @@
+---
+num:        5
+layout:     work
+title:      "Boss"
+date:       2010-01-01
+thumbnail:  thumb_boss-thumbnail-205x134.jpg
+background: X-Test-SketchImage-600x375.jpg
+photos:
+  - boss-photo-580x380-A-v1.jpg
+  - boss-photo-580x380-B-v1.jpg
+  - boss-photo-580x380-C-v1.jpg
+  - boss-photo-580x380-D-v1.jpg
+  - boss-photo-580x380-E-v1.jpg
+  - boss-photo-580x380-F-v1.jpg
+  - boss-photo-580x380-G-v1.jpg
+process_photos:
+  - boss-process-532x384-A-v1.jpg
+  - boss-process-532x384-B-v1.jpg
+  - boss-process-532x384-C-v1.jpg
+  - boss-process-532x384-D-v1.jpg
+  - boss-process-532x384-E-v1.jpg
+  - boss-process-532x384-F-v1.jpg
+  - boss-process-532x384-G-v1.jpg
+  - boss-process-532x384-H-v1.jpg
+  - boss-process-532x384-I-v1.jpg
+---
+
+3mm aluminum is laser cut, rolled and then welded to form this beautiful stool. The radius employed on the edges of the stool form a cylindrically strong shape. Although shown here as a polished prototype this recyclable material could have a hairline finish or be powder coated in a range of colors. With investment in tooling the shape of the stool could be produced more inexpensively in plastic.
+

@@ -1,0 +1,23 @@
+---
+num:        9
+layout:     work
+title:      "Halo"
+date:       2010-01-01
+thumbnail:  thumb_halo-thumbnail-205x134-v1.jpg
+background: X-Test-SketchImage-600x375.jpg
+photos:
+  - halo-photo-580x380-A-v1.jpg
+  - halo-photo-580x380-B-v1.jpg
+  - halo-photo-580x380-C-v1.jpg
+  - halo-photo-580x380-D-v1.jpg
+  - halo-photo-580x380-E-v1.jpg
+  - halo-photo-580x380-F-v1.jpg
+  - halo-photo-580x380-G-v1.jpg
+  - halo-photo-580x380-H-v1.jpg
+  - halo-photo-580x380-I-v1.jpg
+process_photos:
+
+---
+
+The objective of this design was to make an inexpensive durable stool that could be produced locally. The different parts are machined from a sheet of 26mm ply-wood using a programmable router. Man handling is keep to an absolute minimum. With the top of the seat derived from the middle of the 'Halo' base support optimum use of material is employed. Easy assembled and disassembled with a standard screw enables easy transportation and storage.
+

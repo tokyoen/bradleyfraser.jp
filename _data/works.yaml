@@ -1,0 +1,415 @@
+---
+
+- slug: 01_kaos
+  name: AU Design Project
+  date: 1 JANUARY, 2010
+  en: ! "With a widespread industry focus on minimalist electronic products a\ncounteraction
+    has long been overdue. \n\nOne proposal is to move away from the conventional
+    look of a manufactured product and explore a new aesthetic relationship between
+    the latest technology and complex, seemingly chaotic, naturalistic forms. A
+    structural ornamentation is proposed that does nothing to reduce functionality
+    offering a new visual and tactile experience. It is a proposal that seeks to
+    challenge today's received notions of how design and technology meet."
+  ja:
+  thumbnail:
+    src: au-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: au-photo-580x380-A-v1.jpg
+  - src: au-photo-580x380-B-v1.jpg
+  - src: au-photo-580x380-C-v1.jpg
+  - src: au-photo-580x380-D-v1.jpg
+  - src: au-photo-580x380-E-v1.jpg
+  - src: au-photo-580x380-F-v1.jpg
+    style: padding-bottom:0;
+  - src: au-photo-580x380-G-v1.jpg
+    style: margin-top:0;padding-bottom:0;
+  - src: au-photo-580x380-H-v1.jpg
+    style: margin-top:0;
+  - src: au-photo-580x380-I-v1.jpg
+  - src: au-photo-580x380-J-v1.jpg
+  - src: au-photo-580x380-K-v1.jpg
+  - src: au-photo-580x380-L-v1.jpg
+  - src: au-photo-580x380-M-v1.jpg
+  - src: au-photo-580x380-N-v1.jpg
+  - src: au-photo-580x380-O-v1.jpg
+  - src: au-photo-580x380-R-v1.jpg
+  process:
+  - src: boss-process-532x384-A-v1.jpg
+  - src: boss-process-532x384-B-v1.jpg
+  - src: boss-process-532x384-C-v1.jpg
+  - src: boss-process-532x384-D-v1.jpg
+  - src: boss-process-532x384-E-v1.jpg
+  - src: boss-process-532x384-F-v1.jpg
+  - src: boss-process-532x384-G-v1.jpg
+  - src: boss-process-532x384-H-v1.jpg
+  - src: boss-process-532x384-I-v1.jpg
+
+- slug: 02_buoy
+  name: Buoy
+  date: 1 JANUARY, 2010
+  en: Small portable ubiquitous computing device developed together with NEC engineering
+    and Todai University. The 'head' of the device can be removed so that the device
+    can connect directly to a mobile phone interface.
+  ja:
+  thumbnail:
+    src: buoy-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: buoy-photo-580x380-A-v1.jpg
+  - src: buoy-photo-580x380-B-v1.jpg
+  - src: buoy-photo-580x380-C-v1.jpg
+  - src: buoy-photo-580x380-D-v1.jpg
+  - src: buoy-photo-580x380-E-v1.jpg
+  - src: buoy-photo-580x380-F-v1.jpg
+  - src: buoy-photo-580x380-G-v1.jpg
+  process:
+  - src: boss-process-532x384-A-v1.jpg
+  - src: boss-process-532x384-B-v1.jpg
+  - src: boss-process-532x384-C-v1.jpg
+  - src: boss-process-532x384-D-v1.jpg
+  - src: boss-process-532x384-E-v1.jpg
+  - src: boss-process-532x384-F-v1.jpg
+  - src: boss-process-532x384-G-v1.jpg
+  - src: boss-process-532x384-H-v1.jpg
+  - src: boss-process-532x384-I-v1.jpg
+
+- slug: 03_t_section
+  name: T-section_stool
+  date: 1 JANUARY, 2010
+  en: Press bent, extruded, T-section aluminum forms the legs of this stool. The
+    legs are fixed to a laser cut top using screws enabling easy assembly and disassembly.
+    The sandblasted anodized finish forms a protective durable layer on the aluminum
+    enabling production of a variety of colors.  With investment of minimal tooling
+    an inexpensive, light-weight, durable, elegant stool is produced.
+  ja:
+  thumbnail:
+    src: tss-thumbnail-205x134.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: tss-photo-580x380-A-v1.jpg
+  - src: tss-photo-580x380-B-v1.jpg
+  - src: tss-photo-580x380-C-v1.jpg
+  - src: tss-photo-580x380-D-v1.jpg
+  - src: tss-photo-580x380-E-v1.jpg
+  - src: tss-photo-580x380-F-v1.jpg
+  - src: tss-photo-580x380-G-v1.jpg
+  - src: tss-photo-580x380-H-v1.jpg
+  process:
+  - src: tss-process-532x384-A-v1.jpg
+  - src: tss-process-532x384-B-v1.jpg
+  - src: tss-process-532x384-C-v1.jpg
+  - src: tss-process-532x384-D-v1.jpg
+
+- slug: 04_aerial
+  name: Aerial
+  date: 1 JANUARY, 2010
+  en: Nec mobile phone design.
+  ja:
+  thumbnail:
+    src: aerial-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: aerial-photo-580x380-A-v1.jpg
+  - src: aerial-photo-580x380-B-v1.jpg
+  - src: aerial-photo-580x380-C-v1.jpg
+  - src: aerial-photo-580x380-D-v1.jpg
+  - src: aerial-photo-580x380-E-v1.jpg
+  - src: aerial-photo-580x380-F-v1.jpg
+  - src: aerial-photo-580x380-G-v1.jpg
+  - src: aerial-photo-580x380-H-v1.jpg
+  - src: aerial-photo-580x380-I-v1.jpg
+  - src: aerial-photo-580x380-J-v1.jpg
+  process:
+  - src: boss-process-532x384-A-v1.jpg
+  - src: boss-process-532x384-B-v1.jpg
+  - src: boss-process-532x384-C-v1.jpg
+  - src: boss-process-532x384-D-v1.jpg
+  - src: boss-process-532x384-E-v1.jpg
+  - src: boss-process-532x384-F-v1.jpg
+  - src: boss-process-532x384-G-v1.jpg
+  - src: boss-process-532x384-H-v1.jpg
+  - src: boss-process-532x384-I-v1.jpg
+
+- slug: 05_boss
+  name: Boss
+  date: 1 JANUARY, 2010
+  en: 3mm aluminum is laser cut, rolled and then welded to form this beautiful stool.
+    The radius employed on the edges of the stool form a cylindrically strong shape.
+    Although shown here as a polished prototype this recyclable material could have
+    a hairline finish or be powder coated in a range of colors. With investment
+    in tooling the shape of the stool could be produced more inexpensively in plastic.
+  ja:
+  thumbnail:
+    src: boss-thumbnail-205x134.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: boss-photo-580x380-A-v1.jpg
+  - src: boss-photo-580x380-B-v1.jpg
+  - src: boss-photo-580x380-C-v1.jpg
+  - src: boss-photo-580x380-D-v1.jpg
+  - src: boss-photo-580x380-E-v1.jpg
+  - src: boss-photo-580x380-F-v1.jpg
+  - src: boss-photo-580x380-G-v1.jpg
+  process:
+  - src: boss-process-532x384-A-v1.jpg
+  - src: boss-process-532x384-B-v1.jpg
+  - src: boss-process-532x384-C-v1.jpg
+  - src: boss-process-532x384-D-v1.jpg
+  - src: boss-process-532x384-E-v1.jpg
+  - src: boss-process-532x384-F-v1.jpg
+  - src: boss-process-532x384-G-v1.jpg
+  - src: boss-process-532x384-H-v1.jpg
+  - src: boss-process-532x384-I-v1.jpg
+
+- slug: 06_panasonic
+  name: Single Pin - Bar
+  date: 1 JANUARY, 2010
+  en: A Panasonic mobile phone designed for ease of disassembly.
+  ja:
+  thumbnail:
+    src: pb-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: pb-photo-580x380-A-v1.jpg
+  - src: pb-photo-580x380-B-v1.jpg
+  - src: pb-photo-580x380-C-v1.jpg
+  - src: pb-photo-580x380-D-v1.jpg
+  - src: pb-photo-580x380-E-v1.jpg
+  - src: pb-photo-580x380-F-v1.jpg
+  - src: pb-photo-580x380-G-v1.jpg
+  - src: pb-photo-580x380-H-v1.jpg
+  - src: pb-photo-580x380-I-v1.jpg
+  - src: pb-photo-580x380-J-v1.jpg
+  - src: pb-photo-580x380-K-v1.jpg
+  - src: pb-photo-580x380-L-v1.jpg
+  - src: pb-photo-580x380-O-v1.jpg
+  - src: pb-photo-580x380-P-01-v1.jpg
+  - src: pb-photo-580x380-P-02-v1.jpg
+  - src: pb-photo-580x380-P-03-v1.jpg
+  - src: pb-photo-580x380-P-04-v1.jpg
+  - src: pb-photo-580x380-P-05-v1.jpg
+  - src: pb-photo-580x380-P-06-v1.jpg
+  - src: pb-photo-580x380-P-07-v1.jpg
+  - src: pb-photo-580x380-P-08-v1.jpg
+  - src: pb-photo-580x380-P-09-v1.jpg
+  - src: pb-photo-580x380-P-10-v1.jpg
+  - src: pb-photo-580x380-P-11-v1.jpg
+  - src: pb-photo-580x380-P-12-v1.jpg
+  - src: pb-photo-580x380-P-13-v1.jpg
+  - src: pb-photo-580x380-P-14-v1.jpg
+  - src: pb-photo-580x380-P-15-v1.jpg
+  - src: pb-photo-580x380-P-16-v1.jpg
+  process:
+  - src: boss-process-532x384-A-v1.jpg
+  - src: boss-process-532x384-B-v1.jpg
+  - src: boss-process-532x384-C-v1.jpg
+  - src: boss-process-532x384-D-v1.jpg
+  - src: boss-process-532x384-E-v1.jpg
+  - src: boss-process-532x384-F-v1.jpg
+  - src: boss-process-532x384-G-v1.jpg
+  - src: boss-process-532x384-H-v1.jpg
+  - src: boss-process-532x384-I-v1.jpg
+
+- slug: 07_al_table
+  name: AL_1SS_01
+  date: 1 JANUARY, 2010
+  en: This low table was the result of continued experimentation of the "from one
+    sheet" concept. Laser cut 3mm sheet aluminium is bent with complex curves and
+    then welded. The translation from table surface top to the angled legs is what
+    interested me the most in this experiment. Although the diameter of the table
+    is 300mm a larger version could be made using the same process.
+  ja:
+  thumbnail:
+    src: a.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: 1a-photo-580x380-A-v1.jpg
+  - src: 1a-photo-580x380-B-v1.jpg
+  - src: 1a-photo-580x380-C-v1.jpg
+  - src: 1a-photo-580x380-D-v1.jpg
+  - src: 1a-photo-580x380-E-v1.jpg
+  - src: 1a-photo-580x380-F-v1.jpg
+  - src: 1a-photo-580x380-G-v1.jpg
+
+- slug: 08_enigma
+  name: Enigma
+  date: 1 JANUARY, 2010
+  en: Nec mobile phone design.
+  ja:
+  thumbnail:
+    src: enigma-thumbnail-205x134.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: enigma-photo-580x380-A-v1.jpg
+  - src: enigma-photo-580x380-B-v1.jpg
+  - src: enigma-photo-580x380-C-v1.jpg
+  - src: enigma-photo-580x380-D-v1.jpg
+  - src: enigma-photo-580x380-E-v1.jpg
+  - src: enigma-photo-580x380-F-v1.jpg
+  - src: enigma-photo-580x380-G-v1.jpg
+  - src: enigma-photo-580x380-H-v1.jpg
+  - src: enigma-photo-580x380-I-v1.jpg
+  - src: enigma-photo-580x380-J-v1.jpg
+  - src: enigma-photo-580x380-K-v1.jpg
+  - src: enigma-photo-580x380-L-v1.jpg
+  - src: enigma-photo-580x380-M-v1.jpg
+
+- slug: 09_halo
+  name: Halo
+  date: 1 JANUARY, 2010
+  en: The objective of this design was to make an inexpensive durable stool that
+    could be produced locally. The different parts are machined from a sheet of
+    26mm ply-wood using a programmable router. Man handling is keep to an absolute
+    minimum. With the top of the seat derived from the middle of the 'Halo' base
+    support optimum use of material is employed. Easy assembled and disassembled
+    with a standard screw enables easy transportation and storage.
+  ja:
+  thumbnail:
+    src: halo-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: halo-photo-580x380-A-v1.jpg
+  - src: halo-photo-580x380-B-v1.jpg
+  - src: halo-photo-580x380-C-v1.jpg
+  - src: halo-photo-580x380-D-v1.jpg
+  - src: halo-photo-580x380-E-v1.jpg
+  - src: halo-photo-580x380-F-v1.jpg
+  - src: halo-photo-580x380-G-v1.jpg
+  - src: halo-photo-580x380-H-v1.jpg
+  - src: halo-photo-580x380-I-v1.jpg
+
+- slug: 10_onyx
+  name: Onyx
+  date: 1 JANUARY, 2010
+  en: Nec mobile phone design.
+  ja:
+  thumbnail:
+    src: onyx-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: onyx-photo-580x380-A-v1.jpg
+  - src: onyx-photo-580x380-B-v1.jpg
+  - src: onyx-photo-580x380-C-v1.jpg
+  - src: onyx-photo-580x380-D-v1.jpg
+
+- slug: 11_do
+  name: Do
+  date: 1 JANUARY, 2010
+  en: Furniture exhibition held at the Claska 'Do' gallery for the annual 'DesignTide'
+    event.
+  ja:
+  thumbnail:
+    src: do-thumbnail-205x134.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: do-photo-580x380-A-v1.jpg
+  - src: do-photo-580x380-B-v1.jpg
+  - src: do-photo-580x380-C-v1.jpg
+  - src: do-photo-580x380-D-v1.jpg
+  - src: do-photo-580x380-E-v1.jpg
+  - src: do-photo-580x380-F-v1.jpg
+  - src: do-photo-580x380-G-v1.jpg
+  - src: do-photo-580x380-H-v1.jpg
+  - src: do-photo-580x380-I-v1.jpg
+  - src: do-photo-580x380-J-v1.jpg
+
+- slug: 12_espier
+  name: Espier
+  date: 1 JANUARY, 2010
+  en: Nec mobile phone design.
+  ja:
+  thumbnail:
+    src: espier-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: espier-photo-580x380-A-v1.jpg
+  - src: espier-photo-580x380-B-v1.jpg
+  - src: espier-photo-580x380-C-v1.jpg
+  - src: espier-photo-580x380-D-v1.jpg
+  - src: espier-photo-580x380-E-v1.jpg
+  - src: espier-photo-580x380-F-v1.jpg
+  - src: espier-photo-580x380-G-v1.jpg
+  - src: espier-photo-580x380-H-v1.jpg
+  - src: espier-photo-580x380-I-v1.jpg
+  - src: espier-photo-580x380-J-v1.jpg
+  - src: espier-photo-580x380-Kv-v1.jpg
+
+- slug: 13_panasonicf
+  name: Single Pin - Flip
+  date: 1 JANUARY, 2010
+  en: A Panasonic mobile phone designed for ease of disassembly.
+  ja:
+  thumbnail:
+    src: panasonicf-thumbnail-205x134-v1.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: pf-photo-580x380-A-v1.jpg
+  - src: pf-photo-580x380-B-v1.jpg
+  - src: pf-photo-580x380-C-v1.jpg
+  - src: pf-photo-580x380-D-v1.jpg
+  - src: pf-photo-580x380-E-v1.jpg
+  - src: pf-photo-580x380-F-v1.jpg
+
+- slug: 14_M6
+  name: Mi6
+  date: 1 JANUARY, 2010
+  en: Nec mobile phone design.
+  ja:
+  thumbnail:
+    src: mi6-thumbnail-205x134.jpg
+  background:
+    src: X-Test-SketchImage-600x375.jpg
+    x: '180'
+    y: '100'
+  photo:
+  - src: mi6-photo-580x380-A-v1.jpg
+  - src: mi6-photo-580x380-B-v1.jpg
+  - src: mi6-photo-580x380-C-v1.jpg
+  - src: mi6-photo-580x380-D-v1.jpg
+  - src: mi6-photo-580x380-E-v1.jpg
+  - src: mi6-photo-580x380-F-v1.jpg
+  - src: mi6-photo-580x380-G-v1.jpg
+  - src: mi6-photo-580x380-H-v1.jpg
+  - src: mi6-photo-580x380-I-v1.jpg
+  - src: mi6-photo-580x380-J-v1.jpg
+  - src: mi6-photo-580x380-K-v1.jpg

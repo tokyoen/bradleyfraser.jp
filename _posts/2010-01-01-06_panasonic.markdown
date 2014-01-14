@@ -1,0 +1,51 @@
+---
+num:        6
+layout:     work
+title:      "Single Pin - Bar"
+date:       2010-01-01
+thumbnail:  thumb_pb-thumbnail-205x134-v1.jpg
+background: X-Test-SketchImage-600x375.jpg
+photos:
+  - pb-photo-580x380-A-v1.jpg
+  - pb-photo-580x380-B-v1.jpg
+  - pb-photo-580x380-C-v1.jpg
+  - pb-photo-580x380-D-v1.jpg
+  - pb-photo-580x380-E-v1.jpg
+  - pb-photo-580x380-F-v1.jpg
+  - pb-photo-580x380-G-v1.jpg
+  - pb-photo-580x380-H-v1.jpg
+  - pb-photo-580x380-I-v1.jpg
+  - pb-photo-580x380-J-v1.jpg
+  - pb-photo-580x380-K-v1.jpg
+  - pb-photo-580x380-L-v1.jpg
+  - pb-photo-580x380-O-v1.jpg
+  - pb-photo-580x380-P-01-v1.jpg
+  - pb-photo-580x380-P-02-v1.jpg
+  - pb-photo-580x380-P-03-v1.jpg
+  - pb-photo-580x380-P-04-v1.jpg
+  - pb-photo-580x380-P-05-v1.jpg
+  - pb-photo-580x380-P-06-v1.jpg
+  - pb-photo-580x380-P-07-v1.jpg
+  - pb-photo-580x380-P-08-v1.jpg
+  - pb-photo-580x380-P-09-v1.jpg
+  - pb-photo-580x380-P-10-v1.jpg
+  - pb-photo-580x380-P-11-v1.jpg
+  - pb-photo-580x380-P-12-v1.jpg
+  - pb-photo-580x380-P-13-v1.jpg
+  - pb-photo-580x380-P-14-v1.jpg
+  - pb-photo-580x380-P-15-v1.jpg
+  - pb-photo-580x380-P-16-v1.jpg
+process_photos:
+  - boss-process-532x384-A-v1.jpg
+  - boss-process-532x384-B-v1.jpg
+  - boss-process-532x384-C-v1.jpg
+  - boss-process-532x384-D-v1.jpg
+  - boss-process-532x384-E-v1.jpg
+  - boss-process-532x384-F-v1.jpg
+  - boss-process-532x384-G-v1.jpg
+  - boss-process-532x384-H-v1.jpg
+  - boss-process-532x384-I-v1.jpg
+---
+
+A Panasonic mobile phone designed for ease of disassembly.
+

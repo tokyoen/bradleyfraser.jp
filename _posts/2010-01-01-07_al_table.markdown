@@ -1,0 +1,21 @@
+---
+num:        7
+layout:     work
+title:      "AL_1SS_01"
+date:       2010-01-01
+thumbnail:  thumb_a.jpg
+background: X-Test-SketchImage-600x375.jpg
+photos:
+  - 1a-photo-580x380-A-v1.jpg
+  - 1a-photo-580x380-B-v1.jpg
+  - 1a-photo-580x380-C-v1.jpg
+  - 1a-photo-580x380-D-v1.jpg
+  - 1a-photo-580x380-E-v1.jpg
+  - 1a-photo-580x380-F-v1.jpg
+  - 1a-photo-580x380-G-v1.jpg
+process_photos:
+
+---
+
+This low table was the result of continued experimentation of the "from one sheet" concept. Laser cut 3mm sheet aluminium is bent with complex curves and then welded. The translation from table surface top to the angled legs is what interested me the most in this experiment. Although the diameter of the table is 300mm a larger version could be made using the same process.
+

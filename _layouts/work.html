@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<article class="galleryMain galleryActive" style="left: 0px;">
+	<div class="galleryTxt" id="galleryTxt">
+
+		<h1>
+			{{ page.title }}
+			<span>{{ page.date | date: "%d %B, %Y" }} | {{ page.photos | size }} PHOTOS</span>
+		</h1>
+		<p class="productContent" styel="line-height:18px;">
+			{{ content }}
+		</p>
+						
+			
+			<div id="bkimg" name="/img/upload_works/{{ page.num }}/large_{{ page.background }}"></div>
+			<div id="bkimgThumb">
+				<img src="/img/upload_works/{{ page.num }}/{{ page.background }}" style="width:100%;">
+			</div>
+			
+			<div class="imgcontent" id="imgcontent" style="margin-top:15px;">
+				{% for url in page.photos %}
+				<p id="{{forloop.index}}" class="productPhoto">
+					<a href="/img/upload_works/{{ page.num }}/large_{{ url }}" rel="lightbox">
+						<img src="/img/upload_works/{{ page.num }}/small_{{ url }}">
+					</a>
+				</p>
+				{% endfor %}
+				
+			</div>
+			<div id="scrollhere"></div>
+		
+						
+			<p class="productContent" style="padding-bottom:10px;">
+				<a href="javascript:void(0);" class="seeProcessLink">
+					<span></span>SEE PROCESS
+				</a>
+			</p>
+			<div class="processThumbContainer">
+				<ul>
+					{% for url in page.process_photos %}
+					<li>
+						<a href="/img/upload_process/{{ page.num }}/small_{{ url }}" class="processThumbs">
+							<img src="/img/upload_process/{{ page.num }}/thumb_{{ url }}" border="0">
+						</a>
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		
+			<div id="underThumb"></div>
+	</div>
+</article>
+
+<script id="image_popup_tpl" type="text/x-handlebars-template">
+	<div class="mfp-figure">
+		<div class="mfp-close"></div>
+		<div class="mfp-img-wrapper">
+			<div class="mfp-img"></div>
+		</div>
+		<div class="mfp-bottom-bar">
+			<div class="mfp-title"></div>
+			<div class="mfp-counter"></div>
+		</div>
+	</div>
+</script>

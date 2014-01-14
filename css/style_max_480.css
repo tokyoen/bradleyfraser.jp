@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+@media screen and (max-width: 480px) {
+	.wrapper {
+	}
+	#menu {
+		width: 70%;
+	}
+	a.processThumbs {
+		border: 0px;
+		padding: 1px 1px;
+	}
+	a.processThumbs:hover {
+		border: 0px;
+	}
+	a.processThumbs img {
+		padding: 1px 1px;
+		border: 1px solid #e0e0e0;
+	}
+	a.processThumbs img.hover {
+		border: 1px solid #999999;
+	}
+
+}
