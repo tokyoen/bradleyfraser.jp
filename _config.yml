@@ -2,4 +2,5 @@ name: Bradley Fraser
 markdown: redcarpet
 pygments: true
 permalink: /work/:title
+destination: public
 exclude: ["CNAME", "Rakefile", "README.md", "public"]
