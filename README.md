@@ -1,4 +1,4 @@
 bradleyfraser.jp
 ================
 
-Website for (bradleyfraser.jp)[http://bradleyfraser.jp]
+Website for [bradleyfraser.jp](http://bradleyfraser.jp)
