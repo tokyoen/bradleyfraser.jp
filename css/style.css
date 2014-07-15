@@ -525,7 +525,6 @@ a.processThumbs:hover {
 .processThumbContainer {
     clear: both;
     float: left;
-    width: 65%;
     display: none;
 }
 
