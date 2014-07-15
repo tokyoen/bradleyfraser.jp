@@ -113,9 +113,9 @@ a {
     float: left;
     width: 100%;
     height: auto;
-		top: 0px; 
-		position: absolute; 
-		z-index: 0;
+    top: 0px;
+    position: absolute;
+    z-index: 0;
 }
 
 .header {
@@ -181,7 +181,7 @@ margin-bottom: 1px;
 
 .navs ul li a {
     /*font-family:"ITCgaramond", Times, serif; 
-             /*line-height:37px; */
+                 /*line-height:37px; */
     font-family: 'EB Garamond', serif;
     line-height: 29px;
     color: #8d8f91;
@@ -223,33 +223,22 @@ color: #5c5e61;
 }
 
 .galleryInside {
-    /*float:left;
-            width: 90%;*/
-    height: auto;
     overflow: hidden;
     padding-bottom: 50px;
     margin: 2px auto;
-    margin-left: 2px;
     padding: 0 0 50px 0;
-    width: 78%;
-    transition: all 0.2s ease-out;
-    -o-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    -webkit-transition: all 0.2s ease-out;
+    width: 1010px;
 }
 
 .galleryTxt {
     margin: 0 auto;
-    margin-left: 18.8%;
-    width: 70%;
+    width: 700px;
     height: auto;
     overflow: hidden;
     padding-bottom: 50px;
 }
 
 .galleryTxt h1 {
-    float: left;
-    width: 65%;
     height: auto;
     /*    font-family:"ITCgaramond", Times, serif;*/
     font-family: 'EB Garamond', serif;
@@ -260,10 +249,10 @@ color: #5c5e61;
     margin: 0 0 0 0;
     line-height: 22px;
     letter-spacing: 0.1em;
+    text-align: center;
 }
 
 .galleryTxt h1 span {
-    float: left;
     width: 100%;
     height: auto;
     font-family: Verdana, Geneva, sans-serif;
@@ -271,18 +260,14 @@ color: #5c5e61;
     color: #5c5e61;
     text-transform: uppercase;
     margin-top: -1px;
+    display: block;
 }
 
 .galleryTxt p {
-    width: 65%;
-    height: auto;
-    /*font-family:"Courier New", Courier, monospacef;*/
     font-family: Verdana, Geneva, sans-serif;
     font-size: 12px;
     color: #b2b5bb;
     font-weight: normal;
-    padding: 0 0 75px 0;
-    margin: 0 0 0 0;
     line-height: 17px;
     text-align: left;
 }
@@ -323,10 +308,7 @@ color: #5c5e61;
     padding: 0 0 70px 0;
 }
 
-.galleryTxt p img {
-    width: 94.8%;
-    max-width: 580px;
-}
+.galleryTxt p img {}
 
 .galleryTxt a {
     color: #5c5e61;
@@ -495,6 +477,12 @@ color: #5c5e61;
 
 .container .galleryActive {
     visibility: visible;
+}
+
+.productContent {
+	border: 1px solid #ddd;
+	border-width: 1px 0;
+	padding: 1.5em 0;
 }
 
 .seeProcessLink {
