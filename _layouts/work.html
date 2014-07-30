@@ -14,9 +14,7 @@ layout: default
 		<div class="imgcontent" id="imgcontent" style="margin-top:15px;">
 			{% for url in page.photos %}
 			<p id="{{forloop.index}}" class="productPhoto">
-				<a href="/img/upload_works/{{ page.num }}/large_{{ url }}" rel="lightbox">
-					<img src="/img/upload_works/{{ page.num }}/small_{{ url }}">
-				</a>
+				<a href="/img/upload_works/{{ page.num }}/large_{{ url }}" rel="lightbox"><img src="/img/upload_works/{{ page.num }}/small_{{ url }}"></a>
 			</p>
 			{% endfor %}
 			
@@ -33,9 +31,7 @@ layout: default
 			<ul>
 				{% for url in page.process_photos %}
 				<li>
-					<a href="/img/upload_process/{{ page.num }}/small_{{ url }}" class="processThumbs">
-						<img src="/img/upload_process/{{ page.num }}/thumb_{{ url }}" border="0">
-					</a>
+					<a href="/img/upload_process/{{ page.num }}/small_{{ url }}" class="processThumbs"><img src="/img/upload_process/{{ page.num }}/thumb_{{ url }}" border="0"></a>
 				</li>
 				{% endfor %}
 			</ul>

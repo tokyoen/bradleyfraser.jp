@@ -273,7 +273,8 @@ color: #5c5e61;
 }
 
 .galleryTxt p.productPhoto {
-    margin-top: 3.4%;
+    margin: 0;
+	padding:0;
 }
 
 .galleryTxt p.productPhoto img.lazy {
@@ -313,6 +314,7 @@ color: #5c5e61;
 .galleryTxt a {
     color: #5c5e61;
     text-decoration: none;
+	display: block;
 }
 
 .galleryTxt a:hover {
@@ -483,6 +485,11 @@ color: #5c5e61;
 	border: 1px solid #ddd;
 	border-width: 1px 0;
 	padding: 1.5em 0;
+}
+
+.productContent p {
+	font-size: 1em;
+	font-family: 'EB Garamond', serif;
 }
 
 .seeProcessLink {
