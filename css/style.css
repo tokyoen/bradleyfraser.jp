@@ -322,11 +322,15 @@ color: #5c5e61;
 }
 
 .galleryTxt p.bio {
+    font-family: 'EB Garamond', serif;
+	font-size: 0.9em;
     margin: 111px 0 0 2px;
     line-height: 19px;
 }
 
 .galleryTxt p.contact {
+    font-family: 'EB Garamond', serif;
+	font-size: 0.9em;
     margin: 76px 0 0 0;
 }
 
